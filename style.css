@@ -14,7 +14,7 @@ body {
   color: white;
   margin: 100px auto 0;
   border-radius: 20px;
-  padding: 40px 35px;
+  padding: 25px 20px;
   text-align: center;
 }
 .search {
@@ -32,8 +32,8 @@ body {
   height: 60px;
   border-radius: 30px;
   flex: 1;
-  margin-right: 16px;
-  font-size: 18px;
+  margin-right: 12px;
+  font-size: 16px;
 }
 .search button {
   border: 0;
@@ -43,6 +43,7 @@ body {
   width: 60px;
   height: 60px;
   cursor: pointer;
+  padding: 10px;
 }
 .search button img {
   width: 16px;
